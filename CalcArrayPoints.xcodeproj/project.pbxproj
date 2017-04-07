@@ -29,7 +29,7 @@
 		972A2A911E96D86B006A63C5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		972A2A9C1E96D8DA006A63C5 /* CalcArrayPointsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalcArrayPointsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		972A2AA01E96D8DA006A63C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		972A2AA41E96D996006A63C5 /* CalcArrayPointsUnitTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalcArrayPointsUnitTests.swift; path = ../../../../../Downloads/CalcArrayPointsUnitTests.swift; sourceTree = "<group>"; };
+		972A2AA41E96D996006A63C5 /* CalcArrayPointsUnitTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalcArrayPointsUnitTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -340,6 +340,7 @@
 				972A2A971E96D86B006A63C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		972A2AA11E96D8DA006A63C5 /* Build configuration list for PBXNativeTarget "CalcArrayPointsTests" */ = {
 			isa = XCConfigurationList;
@@ -348,6 +349,7 @@
 				972A2AA31E96D8DA006A63C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
